@@ -5,7 +5,7 @@
 <main>
   <h1>Simple Note</h1>
   <section><NoteMain /></section>
-  <footer>footer</footer>
+  <footer></footer>
 </main>
 
 <style>
@@ -29,6 +29,5 @@
   }
   footer {
     grid-area: footer;
-    background: purple;
   }
 </style>
