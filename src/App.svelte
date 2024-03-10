@@ -1,10 +1,10 @@
 <script lang="ts">
-  import Note from './lib/Note.svelte'
+  import NoteMain from './lib/NoteMain.svelte'
 </script>
 
 <main>
   <h1>Simple Note</h1>
-  <section><Note /></section>
+  <section><NoteMain /></section>
   <footer>footer</footer>
 </main>
 
